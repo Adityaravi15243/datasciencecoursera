@@ -1,3 +1,4 @@
+##Plot4
 setwd("C:/Users/Aditya/Desktop/Books/R wrangling/Exploratory data analysis Coursera")
 
 data_full <- read.csv("household_power_consumption.txt", header=T, sep=';', na.strings="?", 
